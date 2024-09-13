@@ -1,0 +1,17 @@
+*{ font: bold;
+    color: brown;
+
+}
+#link1:hover {
+    color: blue;
+    text-decoration: overline;
+    cursor: pointer;
+}
+#link2:hover {
+    color: blue;
+    text-decoration: overline;
+}
+#link3:hover{
+    color: blue;
+    text-decoration: overline;
+}
